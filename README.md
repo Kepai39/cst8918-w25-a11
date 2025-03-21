@@ -14,3 +14,4 @@ az storage account create \
 
 az storage container create --name tfstate --account-name 41175118tfstorage
 
+az storage account keys list --account-name 41175118tfstorage --resource-group daig0104-cst8918-tf-backend
