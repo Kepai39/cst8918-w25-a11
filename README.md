@@ -14,4 +14,3 @@ az storage account create \
 
 az storage container create --name tfstate --account-name 41175118tfstorage
 
-Storage acess key: o9V+RoVbNHoNSg4hVhps/NVQW725Vz38/X/eUPmDHeGaWQHqG1TyUoriyc179hT8puLFAEaWOdgs+AStQYqSmA==
